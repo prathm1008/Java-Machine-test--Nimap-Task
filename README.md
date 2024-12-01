@@ -1,4 +1,4 @@
-# Java-Machine-test--Nimap-Task
+# Java-Nimap-Task
 
 1. Spring Boot Setup:
 
