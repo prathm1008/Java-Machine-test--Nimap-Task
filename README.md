@@ -51,8 +51,13 @@ URL - http://localhost:8080/swagger-ui/index.html
 ![image](https://github.com/user-attachments/assets/de922ba2-7b94-4f9e-8653-d3e6739a394b)
 
 3. DATABASE IMAGE
-   ![image](https://github.com/user-attachments/assets/a2d36479-0d56-441d-816e-8c871c7c9f8f)
-   ![image](https://github.com/user-attachments/assets/6930e7dc-05cc-42f3-8638-121681bc4bb9)
+   ![image](https://github.com/user-attachments/assets/76a12408-a8b3-4605-bd51-759b961c9966)
+   ![image](https://github.com/user-attachments/assets/c20098f5-9206-4fcc-b01b-dd7cf49433b2)
+   ![image](https://github.com/user-attachments/assets/c1439b91-f684-4b16-836b-7331e3209cea)
+
+
+
+ 
 
 
 
